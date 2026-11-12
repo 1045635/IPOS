@@ -1,14 +1,4 @@
-Ohio 
-New Mexico
-Alabama
-Florida
-Texas
-Virginia
-Maine
-Marylabd
-Rhode Island
-New York
-California
-Arkansas
-North Dakota
-Utah
+California,38965193
+Texas,30503301
+Florida,2261076
+New York,19571216
