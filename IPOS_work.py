@@ -11,8 +11,7 @@ New_York = state_populations["New York"]
 California = state_populations["California"]
 Texas = state_populations["Texas"]
 Florida = state_populations["Florida"]
-
-
+state_populations['New York'] = New_York
 
 
 
